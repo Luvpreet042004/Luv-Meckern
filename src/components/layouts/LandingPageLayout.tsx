@@ -63,7 +63,7 @@ const LandingPageLayout = ({ children }: LandingPageLayoutProps) => {
               <div className="w-8 h-8 yamchat-gradient rounded-lg flex items-center justify-center">
                 <MessageCircle className="w-5 h-5 text-white" />
               </div>
-              <span className="text-xl font-bold text-foreground">YamChat</span>
+              <span className="text-xl font-bold text-foreground">Luv Meckern</span>
             </div>
             
             <div className="hidden lg:flex items-center space-x-8">

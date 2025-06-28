@@ -44,7 +44,7 @@ const handleChatSelect = (chatId: string) => {
             <div className="w-7 h-7 sm:w-8 sm:h-8 yamchat-gradient rounded-lg flex items-center justify-center">
               <MessageCircle className="w-4 h-4 sm:w-5 sm:h-5 text-white" />
             </div>
-            <span className="text-base sm:text-lg font-bold">YamChat</span>
+            <span className="text-base sm:text-lg font-bold">Luv Meckern</span>
           </div>
           <div>
           <div className="flex items-center space-x-1">
